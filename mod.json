@@ -1,0 +1,12 @@
+{
+  "geode": "4.6.3",
+  "gd": {
+    "win": "2.2081",
+    "android": "2.2081"
+  },
+  "id": "yourname.attemptjumper",
+  "name": "Attempt Jumper",
+  "version": "v1.0.0",
+  "developer": "YourName",
+  "description": "Pause menüsünden attempt sayısını istediğin değere ayarla."
+}
